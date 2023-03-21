@@ -1,0 +1,12 @@
+body {
+    font-family: 'roboto';
+}
+li {
+    display: inline;
+    margin-right: 16px;
+}
+.navbar {
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+}
